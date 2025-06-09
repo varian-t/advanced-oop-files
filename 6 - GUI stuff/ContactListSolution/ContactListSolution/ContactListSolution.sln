@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactListMVVM", "ContactListMVVM\ContactListMVVM.csproj", "{34F5F490-D149-72DF-05DD-6C5A019BB296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactListTest", "ContactListTest\ContactListTest.csproj", "{80E4466E-1D72-B398-AD94-E439DC89761A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F5F490-D149-72DF-05DD-6C5A019BB296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F5F490-D149-72DF-05DD-6C5A019BB296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F5F490-D149-72DF-05DD-6C5A019BB296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F5F490-D149-72DF-05DD-6C5A019BB296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E4466E-1D72-B398-AD94-E439DC89761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E4466E-1D72-B398-AD94-E439DC89761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E4466E-1D72-B398-AD94-E439DC89761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E4466E-1D72-B398-AD94-E439DC89761A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DCB08D-EEB7-4128-AB88-8EF91C98377F}
+	EndGlobalSection
+EndGlobal

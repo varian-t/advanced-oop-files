@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EW3ub8QGwxw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klark\\Documents\\SDU Software engineering\\2nd Semester\\Advanced OOP\\7 - collections\\movielens\\movielens\\movielens.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klark\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

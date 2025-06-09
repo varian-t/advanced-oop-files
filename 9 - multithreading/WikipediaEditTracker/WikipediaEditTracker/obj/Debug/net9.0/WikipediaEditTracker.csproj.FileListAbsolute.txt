@@ -1,0 +1,14 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\bin\Debug\net9.0\WikipediaEditTracker.exe
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\bin\Debug\net9.0\WikipediaEditTracker.deps.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\bin\Debug\net9.0\WikipediaEditTracker.runtimeconfig.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\bin\Debug\net9.0\WikipediaEditTracker.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\bin\Debug\net9.0\WikipediaEditTracker.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.csproj.CoreCompileInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\refint\WikipediaEditTracker.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\WikipediaEditTracker.genruntimeconfig.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\9 - multithreading\WikipediaEditTracker\WikipediaEditTracker\obj\Debug\net9.0\ref\WikipediaEditTracker.dll

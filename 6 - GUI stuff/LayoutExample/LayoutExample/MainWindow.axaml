@@ -1,0 +1,37 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="LayoutExample.MainWindow"
+        Title="LayoutExample">
+        <DockPanel>
+            <!-- Top Menu -->
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="File">
+                    <MenuItem Header="Open"/>
+                    <MenuItem Header="Save"/>
+                </MenuItem>
+                <MenuItem Header="Edit">
+                    <MenuItem Header="Undo"/>
+                    <MenuItem Header="Redo"/>
+                </MenuItem>
+            </Menu>
+
+            <!-- Side Panel for Navigation -->
+            <StackPanel DockPanel.Dock="Left" Width="120" Background="LightGray">
+                <TextBlock Text="Navigation" FontWeight="Bold" Padding="5"/>
+                <ListBox Background="LightGray">
+                    <ListBoxItem Content="Home"/>
+                    <ListBoxItem Content="Settings"/>
+                    <ListBoxItem Content="Profile"/>
+                </ListBox>
+            </StackPanel>
+
+            <!-- Main Content: Canvas -->
+            <Canvas Background="LightBlue">
+                <Rectangle Width="100" Height="50" Fill="Red" Canvas.Left="50" Canvas.Top="30"/>
+                <Ellipse Width="80" Height="80" Fill="Green" Canvas.Left="150" Canvas.Top="100"/>
+            </Canvas>
+        </DockPanel>
+</Window>

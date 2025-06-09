@@ -1,0 +1,17 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TextBoxAvalonia_XAML"
+        x:Class="TextBoxAvalonia_XAML.TextWindow"
+        x:DataType="local:TextWindowViewModel"
+        Title="Text">
+
+    <Window.DataContext>
+        <local:TextWindowViewModel />
+    </Window.DataContext>
+
+    <StackPanel Margin="20" Spacing="10">
+        <TextBox Text="{Binding Text, Mode=TwoWay}" FontSize="52"/>
+        <TextBox Text="{Binding ReversedText, Mode=OneWay}" FontSize="52"/>
+        <TextBox Text="{Binding UppercaseText, Mode=OneWay}" FontSize="52"/>
+    </StackPanel>
+</Window>

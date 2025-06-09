@@ -1,0 +1,24 @@
+Klara Delia 2nd Semester SW 2025
+
+
+1. This program simulates a system that automatically calculates 
+discounts on the total sum of an order, making it easier and more efficient than
+manually calculating it by hand.
+
+2. With the Order class, we can observe abstraction, thanks to which further programmers
+only need to know what each function does, but doesn't need to understand how each of
+them is processed. For example, a programmer doesn't need to understand the logic of
+GetDiscountedTotal(), but can use it to get the desired output.
+
+3. Properties are special values attributed to classes, that help with further encapsulation.
+They can help us directly interact with the object's state without having to directly 
+access its variables. They are set up well in the MenuItem class, because it makes it easier to make sure each
+instance of the class has the needed values that are required to, for example, calculate
+discounts, but also help prevent the program crashing due to null values. 
+
+4. The strategy pattern is a behavioural pattern, that allows us to define a 'family' of 
+variables and allows us to interchange them without altering our code structure. In our case,
+the family of algorithms is IDiscount, and all the discount classes are part of that family.
+What makes it convenient to use, is that our main class handles everything and all our
+different discounts are our strategies, so we can always add another type of discount without
+having to rework and entire algorithm.

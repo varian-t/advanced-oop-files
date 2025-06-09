@@ -1,0 +1,39 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:DataTemplateMVVM.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="DataTemplateMVVM.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="DataTemplateMVVM">
+
+        <!-- Data List with borders between rows -->
+        <ListBox Grid.Row="1" ItemsSource="{Binding SalesReport}" BorderThickness="1" BorderBrush="Black">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" BorderThickness="0,0,0,1" Padding="5">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="1.5*" />
+                                <ColumnDefinition Width="1.5*" />
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="2*" />
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Text="{Binding Name}" Grid.Column="0" Padding="5"/>
+                            <TextBlock Text="{Binding Category}" Grid.Column="1" Padding="5"/>
+                            <TextBlock Text="{Binding Price, StringFormat=C}" Grid.Column="2" Padding="5"/>
+                            <TextBlock Text="{Binding QuantitySold}" Grid.Column="3" Padding="5"/>
+                            <TextBlock Text="{Binding TotalRevenue, StringFormat=C}" Grid.Column="4" Padding="5"/>
+                            <TextBlock Text="{Binding Date, StringFormat=d}" Grid.Column="5" Padding="5"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+</Window>

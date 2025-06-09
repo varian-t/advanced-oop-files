@@ -1,0 +1,14 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\bin\Debug\net9.0\Tasks.exe
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\bin\Debug\net9.0\Tasks.deps.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\bin\Debug\net9.0\Tasks.runtimeconfig.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\bin\Debug\net9.0\Tasks.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\bin\Debug\net9.0\Tasks.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\refint\Tasks.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\Tasks.genruntimeconfig.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\8 - Multithreading\03_Tasks\03_Tasks\obj\Debug\net9.0\ref\Tasks.dll

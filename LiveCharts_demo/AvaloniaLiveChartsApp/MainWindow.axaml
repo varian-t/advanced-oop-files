@@ -1,0 +1,15 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:local="clr-namespace:AvaloniaLiveChartsApp"
+        xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.Avalonia;assembly=LiveChartsCore.SkiaSharpView.Avalonia"
+        x:Class="AvaloniaLiveChartsApp.MainWindow"
+        Title="LiveCharts2 with Avalonia" Width="800" Height="600"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:AvaloniaLiveChartsApp"
+        x:DataType="vm:ViewModel">
+    <Window.DataContext>
+        <local:ViewModel />
+    </Window.DataContext>
+    <Grid>
+        <lvc:CartesianChart Series="{Binding Series}" />
+    </Grid>
+</Window>

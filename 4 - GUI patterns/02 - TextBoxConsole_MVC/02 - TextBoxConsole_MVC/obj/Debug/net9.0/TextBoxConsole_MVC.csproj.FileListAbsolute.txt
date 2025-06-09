@@ -1,0 +1,14 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\bin\Debug\net9.0\TextBoxConsole_MVC.exe
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\bin\Debug\net9.0\TextBoxConsole_MVC.deps.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\bin\Debug\net9.0\TextBoxConsole_MVC.runtimeconfig.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\bin\Debug\net9.0\TextBoxConsole_MVC.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\bin\Debug\net9.0\TextBoxConsole_MVC.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.csproj.CoreCompileInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\refint\TextBoxConsole_MVC.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\TextBoxConsole_MVC.genruntimeconfig.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\02 - TextBoxConsole_MVC\02 - TextBoxConsole_MVC\obj\Debug\net9.0\ref\TextBoxConsole_MVC.dll

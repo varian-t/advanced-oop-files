@@ -1,0 +1,14 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\bin\Debug\net9.0\TextBoxConsole_Basic.exe
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\bin\Debug\net9.0\TextBoxConsole_Basic.deps.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\bin\Debug\net9.0\TextBoxConsole_Basic.runtimeconfig.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\bin\Debug\net9.0\TextBoxConsole_Basic.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\bin\Debug\net9.0\TextBoxConsole_Basic.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.csproj.CoreCompileInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\refint\TextBoxConsole_Basic.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\TextBoxConsole_Basic.genruntimeconfig.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\01 - TextBoxConsole_Basic\01 - TextBoxConsole_Basic\obj\Debug\net9.0\ref\TextBoxConsole_Basic.dll

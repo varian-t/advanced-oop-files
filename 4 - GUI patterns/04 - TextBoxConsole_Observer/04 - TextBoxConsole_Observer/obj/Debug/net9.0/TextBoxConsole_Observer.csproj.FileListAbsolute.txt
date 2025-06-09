@@ -1,0 +1,14 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\bin\Debug\net9.0\TextBoxConsole_Observer.exe
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\bin\Debug\net9.0\TextBoxConsole_Observer.deps.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\bin\Debug\net9.0\TextBoxConsole_Observer.runtimeconfig.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\bin\Debug\net9.0\TextBoxConsole_Observer.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\bin\Debug\net9.0\TextBoxConsole_Observer.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.csproj.CoreCompileInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\refint\TextBoxConsole_Observer.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\TextBoxConsole_Observer.genruntimeconfig.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\4 - GUI patterns\04 - TextBoxConsole_Observer\04 - TextBoxConsole_Observer\obj\Debug\net9.0\ref\TextBoxConsole_Observer.dll

@@ -1,0 +1,33 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="B2ImgEditor.MainWindow"
+        Title="B2ImgEditor" Width="500" Height="1000">
+
+    <!-- Use a Grid to center the content -->
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+
+           <!-- The Grid to hold the image pixels (for future updates) with a colorful border -->
+            <Border BorderBrush="Blue" BorderThickness="3" Padding="10" >
+                <Grid Name="PixelGrid">
+                <!-- Assuming PixelGrid is a Grid defined here, that you are filling with buttons -->
+                
+                </Grid>
+            </Border>
+            
+            <!-- Button with a colorful border -->
+            <Border BorderBrush="Red" BorderThickness="7" Padding="10">
+                <Button Content="Choose File" Click="ChooseFileButton_Click" HorizontalAlignment="Center" Margin="20"/>
+            </Border>
+
+            <!-- Export Button -->
+            <Border BorderBrush="Green" BorderThickness="7" Padding="10">
+               <Button Content="Export Image" Click="ExportImageButton_Click" HorizontalAlignment="Center" Margin="20"/>
+            </Border>
+
+
+
+           
+        </StackPanel>
+    </Grid>
+</Window>

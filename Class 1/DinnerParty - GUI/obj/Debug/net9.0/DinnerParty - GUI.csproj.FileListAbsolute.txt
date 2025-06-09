@@ -1,0 +1,4 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\Class 1\DinnerParty - GUI\obj\Debug\net9.0\DinnerParty - GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\Class 1\DinnerParty - GUI\obj\Debug\net9.0\DinnerParty - GUI.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\Class 1\DinnerParty - GUI\obj\Debug\net9.0\DinnerParty - GUI.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\Class 1\DinnerParty - GUI\obj\Debug\net9.0\DinnerParty - GUI.csproj.CoreCompileInputs.cache

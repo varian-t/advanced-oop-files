@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hs0rwdkq2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klark\\Documents\\SDU Software engineering\\2nd Semester\\Advanced OOP\\5 - unit_testing_solution\\Binary_Search\\Binary_Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klark\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\klark\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\klark\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

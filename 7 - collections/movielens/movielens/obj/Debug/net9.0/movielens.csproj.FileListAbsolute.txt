@@ -1,0 +1,17 @@
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\bin\Debug\net9.0\movielens.exe
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\bin\Debug\net9.0\movielens.deps.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\bin\Debug\net9.0\movielens.runtimeconfig.json
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\bin\Debug\net9.0\movielens.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\bin\Debug\net9.0\movielens.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.AssemblyInfoInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.AssemblyInfo.cs
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.csproj.CoreCompileInputs.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\refint\movielens.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.pdb
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.genruntimeconfig.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\ref\movielens.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.csproj.AssemblyReference.cache
+C:\Users\klark\Documents\SDU Software engineering\2nd Semester\Advanced OOP\7 - collections\movielens\movielens\obj\Debug\net9.0\movielens.csproj.Up2Date

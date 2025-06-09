@@ -1,0 +1,34 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="StyleExample.MainWindow"
+        Title="StyleExample">
+
+        <Window.Styles>
+            <StyleInclude Source="/styles.axaml"/>
+        </Window.Styles>
+
+        <UniformGrid Name="Grid" Rows="4" Columns="4">
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Hello" />
+            <Button Classes="save" Grid.Row="0" Grid.Column="1" Content="Click Me" Background="Red"/>
+            <CheckBox Grid.Row="0" Grid.Column="2" Content="Check It"/>
+            <Rectangle Classes="green" Grid.Row="0" Grid.Column="3" />
+
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="Hello" />
+            <Button Classes="save" Grid.Row="1" Grid.Column="1" FontSize="30"/>
+            <CheckBox Grid.Row="1" Grid.Column="2" />
+            <Rectangle Classes="green" Grid.Row="1" Grid.Column="3" />
+
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="Hello"  />
+            <Button Grid.Row="2" Grid.Column="1" Content="Hello"/>
+            <CheckBox Grid.Row="2" Grid.Column="2" />
+            <Rectangle Classes="red" Grid.Row="2" Grid.Column="3" />
+
+            <TextBlock Grid.Row="3" Grid.Column="0" Text="Hello"/>
+            <Button Grid.Row="3" Grid.Column="1" Content="Hello"/>
+            <CheckBox Grid.Row="3" Grid.Column="2" />
+            <Rectangle Classes="red green" Grid.Row="3" Grid.Column="3" />
+        </UniformGrid>
+</Window>

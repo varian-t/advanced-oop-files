@@ -1,0 +1,53 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        Width="800" Height="450"
+        x:Class="ExamPrep.MainWindow"
+        Title="ExamPrep">
+        <TabControl Margin="5">
+                <TabItem Header="Verify Facade">
+                        <StackPanel>
+                                <Grid ColumnDefinitions="Auto Auto Auto Auto Auto Auto" RowDefinitions="Auto" HorizontalAlignment="Center">
+                                        <Label Grid.Column="0" Margin="0 12">Size:</Label>
+                                        <TextBox Grid.Column="1" Name="TextBoxSize" Margin="5 10 20 10"/>
+                                        <Label Grid.Column="2" Margin="0 12">Max:</Label>
+                                        <TextBox Grid.Column="3" Name="TextBoxMax" Margin="5 10 20 10"/>
+                                        <Button Grid.Column="4" Margin="20 10" Name="ButtonFill" Click="FacadeHandler">FillArray</Button>
+                                        <Button Grid.Column="5" Margin="20 10" Name="ButtonUnique" Click="FacadeHandler">FillUniqueArray</Button>
+                                </Grid>
+                                <TextBox  Width="600" Height="200" xml:space="preserve" TextWrapping="Wrap" Name="TextBoxFacade"/>
+                                <Grid ColumnDefinitions="Auto Auto Auto Auto Auto Auto" RowDefinitions="Auto" HorizontalAlignment="Center" Margin="15">
+                                        <Label Grid.Column="0" Margin="0 12">Divisor:</Label>
+                                        <TextBox Grid.Column="1" Name="TextBoxDivisor" Margin="5 10 20 10"/>
+                                        <Button Grid.Column="5" Margin="20 10" Name="ButtonSum" Click="FacadeHandler">SumOfDivisors</Button>
+                                </Grid>
+                        </StackPanel>
+                </TabItem>
+                <TabItem Header="Laundromat" IsSelected="True">
+                        <StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Spacing="100">
+                                <StackPanel  Margin="0 20 0 20">
+                                        <Grid ColumnDefinitions="Auto" RowDefinitions="Auto Auto Auto" Margin="20">
+                                                <RadioButton Grid.Column="0" Grid.Row="0" Name="RadioButtonWash6" Click="WashHandler">Washing Machine 6 kg</RadioButton>
+                                                <RadioButton Grid.Column="0" Grid.Row="1" Name="RadioButtonWash12" Click="WashHandler">Washing Machine 12 kg</RadioButton>
+                                                <RadioButton Grid.Column="0" Grid.Row="2" Name="RadioButtonTumble" Click="WashHandler">Tumble Dryer</RadioButton>
+                                        </Grid>
+                
+                                </StackPanel>
+                                <StackPanel Margin="0 50 0 20">
+                                        <Grid ColumnDefinitions="Auto Auto" RowDefinitions="Auto Auto Auto">
+                                                <Label Grid.Column="0" Grid.Row="0">Program 1-7 or Minutes</Label>
+                                                <TextBox Grid.Column="0" Grid.Row="1" Width="50" Name="TextBoxProgram" Margin="0 10" TextChanged="TextBoxProgram_OnTextChanged"></TextBox>
+                                        </Grid>
+                                </StackPanel>
+                        </StackPanel>
+                                <Grid ColumnDefinitions="Auto Auto" RowDefinitions="Auto Auto Auto" HorizontalAlignment="Center">
+                                        <Label Grid.Column="0" Grid.Row="0" Name="LabelMachine"></Label>
+                                        <TextBox Grid.Column="0" Grid.Row="2" Width="300" Name="TextBoxResult" Margin=" 0 10"></TextBox>
+                                </Grid>
+                        </StackPanel>
+                </TabItem>
+        </TabControl>
+</Window>
